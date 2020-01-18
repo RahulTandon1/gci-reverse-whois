@@ -11,6 +11,7 @@ Getting these records is what comprises reverse-who-is and can be used to cause 
 From what i've read, it heps one "Discover all domain names associated with an individual or an organization."
 src -> https://reverse-whois-api.whoisxmlapi.com/
 
+And the ICANN has been trying to get rid off it / come with an alternative that's more secretive and is a bit more private for domain registeres (not registrars).
 
 **USES**
 - You can tell if your site's hacked by looking at anomalies in your whois info
