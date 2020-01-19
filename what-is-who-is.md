@@ -1,3 +1,16 @@
+
+I wrote the previous version (below the long line) in a very lazy manner and it was a very unsubstantial job. So, while I didn't search more, today morning I wrote a couple lines impromptu, that I think summarise, or get the essence of whatever I read about reasonably.
+
+Here it is:
+WHOIS is basically a directory (so-to-say) of information that people give when they register domain names. A reverse WHOIS let's one type in the domain and get the WHO IS information for that domain correct?
+
+And the main application of WHO IS + it's reverse version being:
+1. checking for attacks on one's sites (change in WHOIS information)
+2. and I read about this, but exactly how it takes places I'm not sure -> people can attack the WHO IS server and that leads to the site getting hacked.
+
+And third (going on a guess here)
+the information retrieved by a Reverse WHO IS i.e. account/private information about the person/entity who owns the site could be used to exploit the person through all the media whose information is given e.g. email account, bank account etc. [although I'm quite sure the bank account details won't be available publicly in a reverse WHO IS]
+---------------------------
 **An Honest Note**
 To be honest, I'm tired. I'll try and get the essence of this, but I'll be copy-pasting stuff while mentioning sources.
 
